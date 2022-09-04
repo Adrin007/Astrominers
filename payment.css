@@ -1,0 +1,44 @@
+body{
+  background-image: url("images/gradient.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container-fluid{
+  color:white;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  font-size: 1.5rem;
+}
+.bar{
+  background-color: inherit;
+  width:50%;
+  border:1px solid black;
+}
+.bar-a{
+  background-color: inherit;
+  border:1px solid black;
+}
+.bar:hover{
+  background-color: inherit;
+}
+.form-group{
+  padding-left: 35%;
+  padding-bottom: 27px;
+}
+.form-check{
+  padding-left: 38.7%;
+}
+.btn{
+  margin-left: 45%;
+}
+::placeholder{
+  color:white;
+}
+.active{
+  position:relative;
+  bottom:550px;
+  right:470px;
+  margin-top:50px;
+  padding:0 50px;
+}

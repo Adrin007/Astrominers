@@ -1,0 +1,153 @@
+li {
+  margin: 0 10px;
+}
+
+.dropdown-item:hover {
+  background-color: gray;
+}
+
+.multicolor-text {
+  text-align: center;
+  font-size: 50px;
+  background: linear-gradient(to left,
+      green,
+      white,
+      orange);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.nohover{
+  pointer-events: none;
+}
+h1{
+  font-family: 'Ubuntu', sans-serif;
+}
+.title{
+  color:white;
+  text-align: center;
+  margin-top: 120px;
+}
+#container-a{
+  padding:7rem 0 6rem 0;
+  background-color: #0F3460;
+}
+nav{
+  margin-bottom: 3rem;
+}
+.image{
+  padding-left:100px;
+  height:25rem;
+}
+.dropdown-menu{
+  background-color:#16213E;
+}
+#container-b{
+  padding: 10% 2rem;
+  text-align: center;
+  color: #0F3460;
+}
+.features{
+  font-weight: bold;
+}
+.numbers{
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  font-weight: bold;
+}
+.collab{
+  font-weight: bold;
+  padding-bottom: 30px;
+  font-size: 4rem;
+}
+#container-collab{
+  text-align: center;
+  color:white;
+  background-color: #0F3460;
+  padding: 5% 2rem;
+}
+.astro{
+  font-size: 1.5rem;
+}
+.b{
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+.center{
+  text-align: center;
+}
+#container-c{
+  background-color: white;
+  text-align: center;
+  color: #0F3460;
+  padding-top:4%;
+  padding-bottom:15%;
+}
+.elements{
+  margin-bottom: 100px;
+}
+.carousel-indicators{
+  top:230px;
+}
+.carousel-indicators li{
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin: 10px;
+    cursor: pointer;
+    border: 30px;
+    border-radius: 70%;
+    background-color: black;
+}
+.carousel-indicators .active {
+    width: 70px;
+    height: 5px;
+    background-color:#0F3460;
+}
+.carousel-control-next-icon{
+  background-image: url("images/right-arrow.png");
+}
+.carousel-control-prev-icon{
+  background-image: url("images/left-arrow.png");
+}
+.bmw{
+  padding-top: 30px;
+}
+#container-d{
+  text-align: center;
+  background-color: #0F3460;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.ride{
+  color: white;
+  margin-bottom: 50px;
+}
+.card{
+  margin:50px 30px;
+}
+#container-e{
+  color:#0F3460;
+  text-align: center;
+  margin-top: 50px;
+}
+.y{
+  font-size:3rem;
+  margin:0 2% 2%;
+}
+.y-a:hover{
+  color:#277BC0;
+}
+.y-b:hover{
+  color:#FA2FB5;
+}
+.y-c:hover{
+  color:#277BC0;
+}
+.y-d:hover{
+  color:#FEDB39;
+}
+.end-rocket{
+  height:13.7rem;
+}
+.container-fluid{
+  text-align: center;
+}
